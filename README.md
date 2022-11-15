@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ofekanixter
-- 🌱 I’m currently learning CS in TAU
+- 🌱 I’m currently learning CS at TAU
 - 📫 reach me on my mail : ofeka120@gmail.com
 
 <!---
